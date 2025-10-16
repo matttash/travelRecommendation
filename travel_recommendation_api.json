@@ -1,0 +1,38 @@
+{
+  "beaches": [
+    {
+      "name": "Diani Beach, Kenya",
+      "imageUrl": "images/diani.jpg",
+      "description": "White sands, turquoise waters, and beautiful coral reefs."
+    },
+    {
+      "name": "Bondi Beach, Australia",
+      "imageUrl": "images/bondi.jpg",
+      "description": "Popular surf destination with golden sand and scenic walks."
+    }
+  ],
+  "temples": [
+    {
+      "name": "Angkor Wat, Cambodia",
+      "imageUrl": "images/angkor.jpg",
+      "description": "A stunning ancient temple complex and world wonder."
+    },
+    {
+      "name": "Kinkaku-ji, Japan",
+      "imageUrl": "images/kinkakuji.jpg",
+      "description": "The famous Golden Pavilion temple surrounded by serene gardens."
+    }
+  ],
+  "countries": [
+    {
+      "name": "Kenya",
+      "imageUrl": "images/kenya.jpg",
+      "description": "A land of safaris, diverse cultures, and breathtaking landscapes."
+    },
+    {
+      "name": "France",
+      "imageUrl": "images/france.jpg",
+      "description": "A romantic destination known for art, wine, and architecture."
+    }
+  ]
+}
